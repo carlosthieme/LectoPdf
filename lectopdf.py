@@ -6,7 +6,7 @@
 #
 # Created:     22-01-2022
 # Copyright:   (c) caarlos 2022
-# Licence:     <free2use>
+# Licence:     <Mozilla Public License 2.0>
 #-------------------------------------------------------------------------------
 import pdfplumber
 
